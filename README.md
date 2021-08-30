@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ZeroSkidz
+- 👋 Hi, I’m @ZeroCoding
 - 👀 I’m interested in Python, Reverse Engineering
 - 🌱 I’m currently learning Python
-- 📫 How to reach me Discord : ZeroSkidz#0222
